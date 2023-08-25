@@ -43,9 +43,9 @@ and then you can open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-CRUD App is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+CRUD App is built and maintained by [Gideon Odiokine].
 
 ## License
 
-CRUD App is open-source software licensed under the [MIT License](https://github.com/SafdarJamal/crud-app/blob/master/LICENSE).
+CRUD App is open-source software licensed under the [MIT License].
 # human-trafficking-system
