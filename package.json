@@ -6,7 +6,6 @@
     "npm": "7.24.0"
   },
   "private": true,
-  "homepage": "https://safdarjamal.github.io/crud-app/",
   "author": {
     "name": "Safdar Jamal",
     "url": "https://safdarjamal.github.io"
