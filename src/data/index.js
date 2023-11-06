@@ -4,7 +4,7 @@ const employeesData = [
     firstName: 'Susan',
     lastName: 'Jordon',
     email: 'susan@example.com',
-    salary: '95000',
+    salary: 'Okpo Uwai',
     date: '09099068493',
   },
   {
@@ -12,7 +12,7 @@ const employeesData = [
     firstName: 'Adrienne',
     lastName: 'Doak',
     email: 'adrienne@example.com',
-    salary: '80000',
+    salary: 'Edet Victor',
     date: '09099068493',
   },
   {
@@ -20,7 +20,7 @@ const employeesData = [
     firstName: 'Rolf',
     lastName: 'Hegdal',
     email: 'rolf@example.com',
-    salary: '79000',
+    salary: 'Web Boy',
     date: '09099068493',
   },
   {
@@ -28,7 +28,7 @@ const employeesData = [
     firstName: 'Kent',
     lastName: 'Rosner',
     email: 'kent@example.com',
-    salary: '56000',
+    salary: 'Catherine Uedh',
     date: '09099068493',
   },
   {
@@ -36,7 +36,7 @@ const employeesData = [
     firstName: 'Arsenio',
     lastName: 'Grant',
     email: 'arsenio@example.com',
-    salary: '65000',
+    salary: 'Peter Ukno',
     date: '09099068493',
   },
   {
@@ -44,7 +44,7 @@ const employeesData = [
     firstName: 'Laurena',
     lastName: 'Lurie',
     email: 'laurena@example.com',
-    salary: '120000',
+    salary: 'Website Bobby',
     date: '09099068493',
   },
   {
@@ -60,7 +60,7 @@ const employeesData = [
     firstName: 'Jesica',
     lastName: 'Watlington',
     email: 'jesica@example.com',
-    salary: '60000',
+    salary: 'Sammy web',
     date: '09099068493',
   },
   {
@@ -68,7 +68,7 @@ const employeesData = [
     firstName: 'Matthew',
     lastName: 'Warren',
     email: 'matthew@example.com',
-    salary: '71000',
+    salary: 'Okpo Ekpo',
     date: '09099068493',
   },
   {
@@ -76,7 +76,7 @@ const employeesData = [
     firstName: 'Lyndsey',
     lastName: 'Follette',
     email: 'lyndsey@example.com',
-    salary: '110000',
+    salary: 'Williams Okon',
     date: '09099068493',
   },
 ];
