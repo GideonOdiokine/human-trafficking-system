@@ -67,7 +67,7 @@ const Add = ({ employees, setEmployees, setIsAdding }) => {
         <label htmlFor="email">Trafficker' Name</label>
         <input
           id="email"
-          type="email"
+          type="text"
           name="email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
@@ -75,7 +75,7 @@ const Add = ({ employees, setEmployees, setIsAdding }) => {
         <label htmlFor="salary">Victim's Parent Name </label>
         <input
           id="salary"
-          type="number"
+          type="text"
           name="salary"
           value={salary}
           onChange={(e) => setSalary(e.target.value)}
