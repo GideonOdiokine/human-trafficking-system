@@ -32,7 +32,7 @@ const Table = ({ employees, handleEdit, handleDelete }) => {
                 <td>{employee.firstName}</td>
                 <td>{employee.lastName}</td>
                 <td>{employee.email}</td>
-                <td>{formatter.format(employee.salary)}</td>
+                <td>{employee.salary}</td>
                 <td>{employee.date} </td>
                 <td className="text-right">
                   <button
